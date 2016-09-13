@@ -13,6 +13,7 @@ android:orientation="vertical"
         android:text="May your birthday be filled with many happy hours and your life with many happy birthdays. HAPPY BIRTHDAY !!"
         android:textSize="25sp"
         android:textStyle="bold"
+        android:gravity="center"
         android:textColor="#EEFF41"
         />
 
@@ -28,13 +29,11 @@ android:orientation="vertical"
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="HAPPY
-        HAPPPY
-        BIRTHDAY !!"
+        android:text="HAPPY\nHAPPPY\nBIRTHDAY !!"
         android:textSize="25sp"
         android:textStyle="bold"
         android:gravity="right"
-
+      
         android:textColor="#FF80AB"
         />
 

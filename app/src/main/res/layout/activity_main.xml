@@ -33,7 +33,7 @@ android:orientation="vertical"
         android:textSize="25sp"
         android:textStyle="bold"
         android:gravity="right"
-      
+
         android:textColor="#FF80AB"
         />
 
